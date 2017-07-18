@@ -1,15 +1,15 @@
 ---
 layout: post
 title:  "it's already Day 9   "
-date:   2017-07-18 19:54:23 +0000
+date:   2017-07-18 15:54:24 -0400
 ---
 
 
-I've decided I need to be more consistent with my blog posts. I remember scouting for information on different bootcamps and the finding people who blogged about their experiences was like finding gold. Also, I think there's something really satisfying about publishing experience, progress or frustration to the universe. It makes it real because other people can see it and maybe even relate to it.
+I've decided I need to be more consistent with my blog posts. I remember scouting for information on different bootcamps and finding people who blogged about their experience was like finding gold. I think there is something really satisfying about publishing an experience, progress or a frustration to the universe. It makes it real because other people can see it and maybe even relate to it.
 
-I officially received my access on the 7th but I only did the Welcome bit and then savored my last weekend free. I had spent the two weeks before this, just returning from my honeymoon and getting a new colleague (who will be taking my place) up to speed with the business and our team and the workload. I'm working one day a week now, on Fridays. Our team is short staffed and I offered to quit or to work one day a week. A paycheck is nice to have, even if it is a tiny one.
+I officially received my access on the 7th but I only did the Welcome bit and then savored my last weekend free. I had spent the two weeks before this, just returning from my honeymoon and getting a new colleague (who will be taking my place) up to speed with the business and our team and the workload. I'm working one day a week for now, on Fridays. Our team is short staffed and I offered to quit or to work one day a week. A paycheck is nice to have, even if it is a tiny one and I guess a warm body showing up on Fridays was nice for them to have.
 
-So I really started on July 10th. I started Intro to Ruby without having done much Ruby at all. I think I had done something on CodeAcademy but most of my prep work centered around HTML & CSS and JavaScript. I had read that Ruby was intuitive and easier to understand and use. JavaScript was bulky, wordy--- but also rules the world. It's true, once I started Ruby I remember thinking, "That's it? That's all I have to type?" I struggled near the end of Intro to Ruby when it came time to piece all of the methods of Tic Tac Toe together. And when I thought it was over it came time to convert it to object-oriented.
+So I really started the program on July 10th. I began Intro to Ruby without having done much Ruby at all. I think I had done something on CodeAcademy but most of my prep work centered around HTML & CSS and JavaScript. I had read that Ruby was intuitive and easier to understand and use. JavaScript was bulky, wordy--- but also rules the world. It's true, once I started Ruby I remember thinking, "That's it? That's all I have to type?" I struggled near the end of Intro to Ruby when it came time to piece all of the methods of Tic Tac Toe together. And when I thought it was over it came time to convert it to object-oriented.
 
 I find the smaller labs easier to tackle and even though the larger lab was just a combination of all those little labs, I found myself overwhelmed and spending too much time trying to figure it out on my own. I remember spending most of Friday on the Tic Tac Toe lab, finally asked for help, and I literally just needed to change one word in one method. I also fret quite a bit about not mastering a concept before moving on. I'm hoping that there will be lots of ways to practice because I'm constantly looking back at old lessons for reminders.
 
