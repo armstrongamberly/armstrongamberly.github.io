@@ -1,13 +1,13 @@
 ---
 layout: post
 title:  "Day 17 has arrived."
-date:   2017-07-28 00:43:38 +0000
+date:   2017-07-27 20:43:39 -0400
 ---
 
 
 You guys, for some reason I was super hung up on yield and blocks most of the afternoon. I just couldn't let it go. Maybe I shouldn't have had that extra cup of coffee this morning...
 
-I decided to look for some more reading material about yield and blocks. Searched around the web briefly and found some other explanations(and other confused people) that was okay. Did some chores...still thinking about it... opened up the book **Learn to Program** by Chris Pine and I flip to the Arrays and Iterators section and don't see anything there. So I'm looking in the back for an index and there on the last page is an example of yield and he's like (I'm paraphrasing) "I don't know why people like using yield but it's important to know that *there is more than one way to do things*."
+I decided to look for some more reading material about yield and blocks. Searched around the web briefly and found some other explanations(and other confused people) that were just okay. Did some chores...still thinking about it... opened up the book **Learn to Program** by Chris Pine and I flip to the Arrays and Iterators section and don't see anything there. So I'm looking in the back for an index and there on the last page is an example of yield and he's like (I'm paraphrasing) "I don't know why people like using yield but it's important to know that *there is more than one way to do things*."
 
 So I finally sighed with relief. I'm not the only one who thinks yield is weird and there is always more than one way to do something. 
 
