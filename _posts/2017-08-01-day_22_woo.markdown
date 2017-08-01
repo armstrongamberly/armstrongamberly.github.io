@@ -1,0 +1,17 @@
+---
+layout: post
+title:  "Day 22...Woo!"
+date:   2017-08-01 12:31:11 +0000
+---
+
+
+Well, I almost made it through Procedural Ruby by the end of last week. Finished it up with Regex on Monday morning and started right into OOR with the looonngg videos that Avi does. OOR really freaked me out at the end of intro to Ruby. It blew my mind but I was also like, "what have we been doing this whole time?!" I'm not having any trouble with the labs so far but I am only 25% of the way through it. Fingers crossed I can grasp this stuff quickly.
+
+I feel like I need more time with Regex so I grabbed some of the resource sites and saved them for later. There are a few fundamental things I would like to find more practice on: Regex, built-in functions and iterations. Getting the fundamentals right is really important to me. Anyone can hit a free throw but hitting 10 in a row in the NBA championships? That's because of repetition and working on the fundamentals. I'd like to set aside an hour every day or a chunk of one day every week to work on the fundamentals. I'm having a hard time finding more practice for iterations. This is the one time in my life I just want like a 'mathbook', or code book rather, of problems to work through. 
+
+My goal for this week is to make it through OOR and get to the final projects section. I'm actually really excited for the CLI gem project. Not so much the Tic Tac Toe with AI.  I'm pretty much over Tic Tac Toe! I plan on joining the study group tonight regarding the CLI project to get some ideas on how to work through it. I'm unsure of how long it should take to build. I've heard some people spending weeks while others spend a day or two. I suppose I feel that way about most of the curriculum. I am one of those people that feels a bit of urgency regarding any work task and I worry that I'm taking too long or not taking long enough, (before asking for help).
+
+Big picture: I'm really happy that I'm in the program and get the opportunity to learn. I'm excited to keep learning and practicing and hopefully, in the not too distant future, start a new career.
+
+
+See ya out there!
